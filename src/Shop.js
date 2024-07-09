@@ -18,6 +18,7 @@ import Shoplogo3 from "./assets/images/51.jpg";
 import Shopimage from "./assets/images/88.jpg";
 import Logo from "./assets/images/logo.jpg";
 // import { useNavigate } from "react-router-dom";
+//change
 import "./App.css";
 import laptop from "./assets/images/50.jpg";
 import laptop2 from "./assets/images/51.jpg";
